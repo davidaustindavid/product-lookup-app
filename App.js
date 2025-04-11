@@ -10,6 +10,7 @@ import SwagelokLookupView from './src/views/SwagelokLookupView';
 import ParkerLookupView from './src/views/ParkerLookupView';
 import { Image, Text } from 'react-native';
 import Logo from './assets/tgci-white-logo.png'; 
+import TailwindTest from './src/components/TailwindTest';
 
 const Stack = createNativeStackNavigator();
 
